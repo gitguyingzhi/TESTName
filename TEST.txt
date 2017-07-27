@@ -1,0 +1,14 @@
+review
+
+#^&!00000138#^&!000103|911_2DF2600000|1|911_2|221|2|047810217|aOIA4gBoSngE6ScAEHAAAAEAAlL6+hYA/v7+/miSIUEAAABoBAZv8zUzMzP+FgAAAAAAAAAAAAAAAAAAAAC/Fv//////0*^!#
+
+#define MIN ((A)<=(B)?(A):(B))
+
+int a;
+int *a;
+int **a;
+int a[10];
+int *a[10];
+int (*a)[10];
+int (*a)(int);
+int (*a[10])(int)
